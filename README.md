@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-* 🟪 I'm Treasure Okafor
+* 🌸 I'm Treasure Okafor
 * 👩🏽‍💻 I am a focused, driven and motivated individual seeking to pursue my academic goals and career as a Data and Research Analyst.
 * 📊 Interested in SQL, Python, R, Excel and Power BI and other analysis tools.
 * 👯‍♀️ Open to connect and collaborate on intermediate level projects around Data analysis and Research.
